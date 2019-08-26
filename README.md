@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Dattlef's Konsole 👋</h1>
+<h1 align="center">Welcome to Philipp4's Konsole 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-2.0.1-blue.svg?cacheSeconds=2592000" />
   <a href="https://www.mozilla.org/en-US/MPL/2.0/">
@@ -22,7 +22,7 @@ npx live-server
 
 ## Author
 
-👤 **Dattlef**
+👤 **Philipp4**
 
 * Github: [@Philipp4j](https://github.com/Philipp4j)
 
@@ -42,7 +42,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2019 [Dattlef](https://github.com/Philipp4j).<br />
+Copyright © 2019 [Philipp4j](https://github.com/Philipp4j).<br />
 This project is [MPL-2.0](https://www.mozilla.org/en-US/MPL/2.0/) licensed.
 
 ***
