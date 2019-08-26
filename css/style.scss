@@ -6,7 +6,8 @@
     height: 3%;
     font-size: 110%;
     background-color: black;
-    color: white;
+    color: #00ff00;
+    border-color: #000000;
 }
 
 .submitbtn {
@@ -14,9 +15,15 @@
     right: 1%;
     bottom: 1%;
     height: 3%;
+    //transform: rotate(60deg);
 }
 
 body {
     background-color: black;
-    color: white;
+    color: #00ff00;
+}
+
+.console {
+    //transform: rotate(-60deg);
+    height: auto;
 }
