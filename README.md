@@ -26,6 +26,12 @@ npx live-server
 
 * Github: [@Philipp4j](https://github.com/Philipp4j)
 
+👤 **SpiritCS**
+
+* Github: [@sp1ritCS](https://github.com/sp1ritCS)
+* Twitter: [@sp1ritCS](https://twitter.com/sp1ritCS)
+* Steam: [✪ SpiritCS -iwnl-](https://steamcommunity.com/id/spiritcs-primary)
+
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Philipp4j/Konsole/issues).
