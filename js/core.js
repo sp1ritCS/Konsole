@@ -45,7 +45,7 @@ const konsolejs = {
         var string = "";
         args.shift();
         args.forEach((el, index) => {
-          string += el;
+          string += el + " ";
         })
         var output = `${this.bindings.cmd.value} <br>${eval(string)}<br>`;
         break;
